@@ -1,1 +1,1 @@
-Model was tested on imaged and videos.The output is displayed 
+Model was tested on images and videos.The output is displayed 
