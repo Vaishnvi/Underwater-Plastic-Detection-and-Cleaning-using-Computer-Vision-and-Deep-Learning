@@ -11,4 +11,5 @@ Further Work: 1.Augmentation and training model 2.Adding new classes of garbage
 Model is trained on images and videos. Few examples of detecting underwater plastic are shown - 
 
 ![alt text](https://github.com/Vaishnvi/Underwater-Plastic-Detection-and-Cleaning-using-Computer-Vision-and-Deep-Learning/blob/master/output/IMG_20200625_152348__01.jpg)
+![alt_text](https://github.com/Vaishnvi/Underwater-Plastic-Detection-and-Cleaning-using-Computer-Vision-and-Deep-Learning/blob/master/output/Screen%20Shot%202020-06-25%20at%203.52.53%20PM.png)
 ![alt text](https://github.com/Vaishnvi/Underwater-Plastic-Detection-and-Cleaning-using-Computer-Vision-and-Deep-Learning/blob/master/output/Screen%20Shot%202020-06-25%20at%204.02.31%20PM.png)
