@@ -7,3 +7,7 @@ An underwater autonomous vehicle capable of detecting underwater garbage using I
 using Robotic Arm.
 • The collected garbage would be compressed in a compressor attached and would be collected in an attached net.
 Further Work: 1.Augmentation and training model 2.Adding new classes of garbage
+
+Model is trained on images and videos. Few examples of detecting underwater plastic are shown - 
+
+![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
